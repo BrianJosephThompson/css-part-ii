@@ -1,0 +1,45 @@
+.my-container 
+{
+    border: 1px solid;
+}
+
+.header
+{
+    display:flex;
+    background-color: #FFA726;
+    border: 1px solid;
+    height: 300px;
+    align-items:center;
+    justify-content:center;
+}
+
+.main
+{
+    display:flex;
+    background-color: deepskyblue;
+    border: 1px solid;
+    height: 300px;
+    align-items:center;
+    justify-content:center;
+
+}
+
+.sidebar
+{
+    display:flex;
+    background-color: tomato;
+    border: 1px solid;
+    height: 300px;
+    align-items:center;
+    justify-content:center;
+}
+
+.footer
+{
+    display:flex;
+    background-color: mediumseagreen;
+    border: 1px solid;
+    height: 300px;
+    align-items:center;
+    justify-content:center;
+}
